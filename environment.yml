@@ -1,0 +1,12 @@
+name: daps-hackathon
+
+dependencies:
+- python>=3.9
+- anaconda
+- pip
+- pip:
+  - numpy
+  - pandas
+  - pymongo
+  - matplotlib
+  - dnspython
